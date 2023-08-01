@@ -31,3 +31,5 @@ Me apasiona los datos poder trabajar con ellos me encanta antes solo trabajaba c
 
 [![Twitter](https://img.shields.io/badge/Twitter-@hernangramajo8-0077B5?style=for-the-badge&logo=twitter&logoColor=blue&labelColor=101010)](https://twitter.com/Hernangramajo8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Exequiel_Gramajo-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/hernan-exequiel-gramajo-61a220260/)
+</br>
+[![Mail](https://img.shields.io/badge/Gmail-hernangramajo102@gmail.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=#EA4335&labelColor=101010)](mailto:hernangramajo102@gmail.com)
