@@ -25,4 +25,9 @@ Me apasiona los datos poder trabajar con ellos me encanta antes solo trabajaba c
 [![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau&logoColor=black&labelColor=%23E97627&color=%23FF3621
 )]()
 </br>
-Y alguna más...
+
+
+## Contactame: 
+
+[![Twitter](https://img.shields.io/badge/Twitter-@hernangramajo8-0077B5?style=for-the-badge&logo=twitter&logoColor=blue&labelColor=101010)](https://twitter.com/Hernangramajo8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Exequiel_Gramajo-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/hernan-exequiel-gramajo-61a220260/)
