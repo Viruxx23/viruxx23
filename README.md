@@ -1,6 +1,6 @@
 Hola, mi nombre es Exequiel Gramajo 😁
 ------------
-### Dev Python Jr 🐍 & Data Analyst 📊
+###  Python dev Jr 🐍 & Data Analyst 📊
 Soy Analista de datos Jr trabajo con datos hace menos de 6 meses.
 
 Me apasiona los datos poder trabajar con ellos me encanta antes solo trabajaba con Python pero al descubrir el mundo de los datos es un viaje de ida.
