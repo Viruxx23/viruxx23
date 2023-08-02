@@ -1,6 +1,6 @@
 Hola, mi nombre es Exequiel Gramajo 😁
 ------------
-###  Python dev Full Stack Jr 🐍 & Data Analyst 📊
+###  Python Dev Full Stack Jr 🐍 & Data Analyst 📊
 Soy Analista de datos Jr trabajo con datos hace menos de 6 meses.
 
 Me apasiona los datos poder trabajar con ellos me encanta antes solo trabajaba con Python pero al descubrir el mundo de los datos es un viaje de ida.
@@ -23,6 +23,10 @@ Me apasiona los datos poder trabajar con ellos me encanta antes solo trabajaba c
 )]()
 </br>
 [![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau&logoColor=black&labelColor=%23E97627&color=%23FF3621
+)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black&labelColor=%23F7DF1E&color=%234B4B77
+)]()
+[![Vue.Js](https://img.shields.io/badge/Vue.js-yellow?style=for-the-badge&logo=vuedotjs&logoColor=black&labelColor=%234FC08D&color=%231867C0
 )]()
 </br>
 
